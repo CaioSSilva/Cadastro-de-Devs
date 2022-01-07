@@ -71,3 +71,14 @@ button:hover{
 #check{
     display: inline-block;
 }
+@media only screen and (max-width:950px){
+    body{
+        margin-left: 35% ;
+    }   
+    
+}
+@media only screen and (max-width:600px){
+    body{
+        margin-left: 25% ;
+    }
+}
