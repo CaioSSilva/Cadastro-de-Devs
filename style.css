@@ -60,7 +60,7 @@ button{
     position: solid;
     top: 90%;
     left: 50%;
-    margin-right: -50%;
+    margin-right: -50%;     
 }
 button:hover{
     background: #ccbbff;
