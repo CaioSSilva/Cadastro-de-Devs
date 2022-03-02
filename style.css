@@ -52,6 +52,7 @@ fieldset .grupo .campo{
     color: white;
 }
 button{
+    cursor: pointer;
     font-size: 1.2em;
     background: #004070;
     border: 0;
