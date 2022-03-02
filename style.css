@@ -6,11 +6,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 .Titulo{
-    color: #380b61;
+    color: #004070;
     margin-left: 7%;
 }
 .Subtitulo{
-    color: #380b61;
+    color: #142837;
     margin-left: 10%;
 }
 .grupo{
@@ -19,9 +19,9 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: #f0f8ff;
+    background-color: #5d8cb1;
     font-size: 1em;
-    color: #59429d;
+    color: #004070;
     margin-top: 2%;
     justify-content: center;
     align-items: center;
@@ -31,7 +31,7 @@ input,select, textarea, button{
 }
 .campo label{
     margin-bottom: 0.2em;
-    color: #59429d;
+    color: #004070;
     display: block;
 }
 fieldset .grupo .campo{
@@ -41,18 +41,19 @@ fieldset .grupo .campo{
 }
 .campo input[type="text"], .campo input[type="Email"], .campo select, .campo textarea{
     padding: 0.2em;
-    border: 1px solid #59429d;
+    border: 1px solid #004070;
     box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
 }
 .campo select option{
     padding-right: 1em;
 }
 .campo input:focus, .campo select:focus, .campo textarea:focus{
-    background: #e0e0f8;
+    background: #36658a;
+    color: white;
 }
 button{
     font-size: 1.2em;
-    background: #59429d;
+    background: #004070;
     border: 0;
     margin-bottom: 1em;
     color: #ffffff;
@@ -65,7 +66,7 @@ button{
     margin-right: -50%;     
 }
 button:hover{
-    background: #ccbbff;
+    background: #142837;
     box-shadow: inset 2px 2px 2px rgb(0,0,0,0.2);
     text-shadow: none;
 }
