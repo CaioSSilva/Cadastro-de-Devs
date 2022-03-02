@@ -6,11 +6,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 .Titulo{
-    color: #004070;
+    color: white;
     margin-left: 7%;
 }
 .Subtitulo{
-    color: #142837;
+    color: #004070;
     margin-left: 10%;
 }
 .grupo{
@@ -63,7 +63,8 @@ button{
     position: solid;
     top: 90%;
     left: 50%;
-    margin-right: -50%;     
+    margin-right: -50%;
+    margin-top: 5px;     
 }
 button:hover{
     background: #142837;
