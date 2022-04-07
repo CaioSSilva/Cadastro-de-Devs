@@ -44,6 +44,7 @@ fieldset .grupo .campo{
     padding: 0.2em;
     border: 1px solid #004070;
     box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
+    outline: none;
 }
 .campo select option{
     padding-right: 1em;
